@@ -3,7 +3,7 @@
 **Desafio DIO - Cópia da página do Discord**
 
 Como parte do <i>Boootcamp Santander Frontend 2025</i>, tivemos o desafio de replicar a página estática do Discord a partir de um modelo fornecido por eles no **Figma**
-utilizando as linguagens **HTML** e **CSS**. O objetivo maior deste desafio era por em prática as habilidades de **responsividade*** aprendidas no curso.
+utilizando as linguagens **HTML** e **CSS**. O objetivo maior deste desafio era por em prática as habilidades de **responsividade** aprendidas no curso.
 Este projeto me permitiu compreender melhor as funcionalidades do Figma e trabalhar com as diferentes medias queries. <hr>
 
 **DIO Challenge - Discord Page Clone**
